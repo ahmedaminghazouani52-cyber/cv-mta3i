@@ -1,6 +1,6 @@
 # CV Mta3i — AI Resume Analyzer
 
-CV Mta3i (also known as **ResumeLens AI**) is an AI-powered resume analysis application built with Python and Streamlit. It helps users evaluate how well a CV matches a job description and receive suggestions for improving their application.
+CV Mta3i is an AI-powered resume analysis application built with Python and Streamlit. It helps users evaluate how well a CV matches a job description and receive suggestions for improving their application.
 
 ## Features
 
